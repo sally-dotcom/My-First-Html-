@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>My HTML Page</title>
+    </head>
+    <body>
+        <h1>MY FIRST HTML</h1>
+        <P>Hello everyone! My name is Sally, I am a Student at Somakodi School and my current course is Software Engeneering. I am soo exited to have this great opportunity to learn, its really amazing and am looking foward into having a productive time here.THANKYOU!</P>
+  </body>
+</html>
